@@ -1,1 +1,1 @@
-let nome = 'osmar';
+let idade = 23;
